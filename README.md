@@ -1,19 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali Shah</h1>
-<h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
+<h3 align="center">MERN Stack Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=programmer+gif&sca_esv=600789614&rlz=1C1KNTJ_enPK1037PK1037&tbm=isch&sxsrf=ACQVn0-f1T_UfsVHKya0s8mnU9raHuWu8g:1706032949397&source=lnms&sa=X&ved=2ahUKEwiDz7H_i_SDAxUPhv0HHV5yDIEQ_AUoAXoECAMQAw&biw=1280&bih=551&dpr=1.5#imgrc=dbrfb5dvHO4gVM" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibalishah&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibalishah" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zohaibalishah" alt="zohaibalishah" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **NODEJS,REACTJS,MONGODB,EXPRESSJS,PYTHON**
 
 - 📫 How to reach me **zohaibalishah1997@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
