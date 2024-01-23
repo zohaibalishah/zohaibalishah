@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali Shah</h1>
 <h3 align="center">MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://matcha.fyi/content/images/size/w1200/2021/09/programmers.gif" />
+<img align="right" alt="Coding" width="200" src="https://matcha.fyi/content/images/size/w1200/2021/09/programmers.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibalishah&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibalishah" /> </p>
 
