@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali Shah</h1>
 <h3 align="center">MERN Stack Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?q=programmer+gif&sca_esv=600789614&rlz=1C1KNTJ_enPK1037PK1037&tbm=isch&sxsrf=ACQVn0-f1T_UfsVHKya0s8mnU9raHuWu8g:1706032949397&source=lnms&sa=X&ved=2ahUKEwiDz7H_i_SDAxUPhv0HHV5yDIEQ_AUoAXoECAMQAw&biw=1280&bih=551&dpr=1.5#imgrc=dbrfb5dvHO4gVM" />
+<img align="right" alt="Coding" width="400" src="[https://www.google.com/search?q=programmer+gif&sca_esv=600789614&rlz=1C1KNTJ_enPK1037PK1037&tbm=isch&sxsrf=ACQVn0-f1T_UfsVHKya0s8mnU9raHuWu8g:1706032949397&source=lnms&sa=X&ved=2ahUKEwiDz7H_i_SDAxUPhv0HHV5yDIEQ_AUoAXoECAMQAw&biw=1280&bih=551&dpr=1.5#imgrc=dbrfb5dvHO4gVM](https://matcha.fyi/content/images/size/w1200/2021/09/programmers.gif)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibalishah&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibalishah" /> </p>
 
