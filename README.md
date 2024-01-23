@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zohaib Ali Shah</h1>
-<h3 align="center">A passionate MERN STACK developer from Pakistan</h3>
+<h3 align="center">MERN STACK developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zohaibalishah&label=Profile%20views&color=0e75b6&style=flat" alt="zohaibalishah" /> </p>
 
