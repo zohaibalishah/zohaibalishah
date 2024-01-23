@@ -1,3 +1,4 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1024/0*PP5k92twh_W05yzF.jpg)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Zohaib Ali Shah</h1>
 <h3 align="center">MERN Stack Developer</h3>
 <img align="right" alt="Coding" width="300" src="https://matcha.fyi/content/images/size/w1200/2021/09/programmers.gif" />
